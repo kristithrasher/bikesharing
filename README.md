@@ -36,10 +36,20 @@ Heatmap that shows the number of bike trips broken down by gender for each day o
 
 6. Top Ten or Most Popular Starting Locations for Bike RntTrips
    Scatter Map highlighting with Markers by User type the most populart start locations stations for bike trip. 
+   
+![Popular Bike Trip Start Location](https://user-images.githubusercontent.com/94208810/154895646-bdb275fc-40fa-4efa-8174-ff9f3ebc0dce.png)
+
 
 7. Top Ten or Most Popular Ending Locations for Bike Trips
    Scatter Map highlighting with Markers by User type the most populart start locations stations for bike trip. 
 
-## Summary
-High Level summary 
+![Most Popular Bike Trip ENd Locations](https://user-images.githubusercontent.com/94208810/154895690-c75f0ca9-79f0-447e-9106-5e79a3928227.png)
 
+## Summary
+
+The linegraph displays the number of bikes checked out by duration for all users and the graph can be filtered by the hour. This shows the most popular duration for bike trips and also shows which hour is most popular during the day for each weekday. 
+There is a ine graph displaying the number of bikes that are checked out by duration for each gender by the hour, and the graph can get filtered by the hour and gender. 
+A heatmap is created showing the number of bike trips for each hour of each day of the week.
+A heatmap is created showing the number  of bike trips by gener for each hour of each day of the week and the heat map can be filtered by gender 
+A heatmap is created showing the number of bie trips for each type of user and gender for each day of the week and you can only filter by user and gender. 
+A Scatter Map of the Ten most popular bike ride start and end locations. The most popular location for both were in Manahattan. 
