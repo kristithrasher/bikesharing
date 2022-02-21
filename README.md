@@ -1,8 +1,7 @@
 
 # BikeSharing 
 ## Overview 
-
-    Using data from NYC Bike Share provided in a csv file for the month of August I performed data engineering on the data to show our stakeholders/investors reasons why a Bike Share company would be great for Des Moines, Iowa. I began my data engineering on the csv file and changed the datatype of a column in order to create time series graphs in Tableau In addition I created visualizations that show the differences bike checkout times for the type of user and gender throughout the day as a heatmap. I then created a story in Tableau and wrote a report describing the key outcomes of the NYC analysis.
+Using Tablea by using data from NYC Bike Share provided in a csv file for the month of August I performed data engineering on the data to show our stakeholders/investors reasons why a Bike Share company would be great for Des Moines, Iowa. I began my data engineering on the csv file and changed the datatype of a column in order to create time series graphs in Tableau In addition I created visualizations that show the differences bike checkout times for the type of user and gender throughout the day as a heatmap. I then created a story in Tableau and wrote a report describing the key outcomes of the NYC analysis.
     
 ![tripcolumn_datetime_datatype](https://user-images.githubusercontent.com/94208810/154889485-6d08a8a0-b240-4910-8ab0-5a8016820471.png)
 
