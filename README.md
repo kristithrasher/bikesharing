@@ -46,10 +46,10 @@ Heatmap that shows the number of bike trips broken down by gender for each day o
 ![Most Popular Bike Trip ENd Locations](https://user-images.githubusercontent.com/94208810/154895690-c75f0ca9-79f0-447e-9106-5e79a3928227.png)
 
 ## Summary
-
-The linegraph displays the number of bikes checked out by duration for all users and the graph can be filtered by the hour. This shows the most popular duration for bike trips and also shows which hour is most popular during the day for each weekday. 
-There is a ine graph displaying the number of bikes that are checked out by duration for each gender by the hour, and the graph can get filtered by the hour and gender. 
-A heatmap is created showing the number of bike trips for each hour of each day of the week.
-A heatmap is created showing the number  of bike trips by gener for each hour of each day of the week and the heat map can be filtered by gender 
+This shows the most popular duration for bike trips and also shows which hour is most popular during the day for each weekday. The length of time the most bikes were checked out were for 5 minute trip duration and were by subscriber and were of male gender. The most popular lenght of bike rides were between 0 and 59 seconds with Subscriber Males. 
+There is a ine graph displaying the number of bikes that are checked out by duration for each gender by the hour, and the graph can get filtered by the hour and gender. The most bikes were checked out on Thursday by Males between 5:00 and  6:00 P.M. and also saw that 5 and 6:00 P.M. were popular times on Monday Wednesday and Thursday. 
+A heatmap is created showing the number of bike trips for each hour of each day of the week. This showed the most popular day of the week with highest amount of bike rides were on Thursdays and were by Male Gender. The Total number of bike rides were of 44,886 rides. 
+A heatmap is created showing the number  of bike trips by gener for each hour of each day of the week and the heat map can be filtered by gender This map showed to that thursday were most popular time of day for males and the most popular hour was between 5-6 p.m. 
 A heatmap is created showing the number of bie trips for each type of user and gender for each day of the week and you can only filter by user and gender. 
 A Scatter Map of the Ten most popular bike ride start and end locations. The most popular location for both were in Manahattan. 
+Most popular time of the week for Male Subscribers were Thursday, Friday and Saturdays with highest amout of bike trips and Same was true for Female Subscribers with most popular bike trips. The Cusomters most popular time for bike trips was on Saturday and were unknowns genders.   
